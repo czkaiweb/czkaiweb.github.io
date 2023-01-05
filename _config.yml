@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kai-wei-aa840b151/"
+  linkedin         : "kai-wei-aa840b151"
   orcid            : "https://orcid.org/0000-0001-7774-0478"
   pinterest        :
   soundcloud       :
@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  works:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -222,6 +225,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _works
+  - scope:
+      path: ""
+      type: works
     values:
       layout: single
       author_profile: true
