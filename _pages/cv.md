@@ -11,21 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, University of Science and Techology of China, 2017
+* Ph.D in High Energy Physics, The Ohio State University, 2022
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* <br>Cognomotiv Inc</br> | Machine Learning Engineer: Feb 2023 - Now
+  * Develop ML/DL models for automotive solutions
+  * Build GenAI software for automotive services
+* <br>QuantUnicorn</br> | Quantitative Engineer: Dec 2022 - Now
+  * Develop and maintain backend for SaaS 
+  * 
   
 Skills
 ======
