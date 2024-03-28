@@ -16,10 +16,10 @@ Education
 
 Work experience
 ======
-* <br>Cognomotiv Inc</br> | Machine Learning Engineer: Feb 2023 - Now
+* __Cognomotiv Inc__  Machine Learning Engineer: Feb 2023 - Now
   * Develop ML/DL models for automotive solutions
   * Build GenAI software for automotive services
-* <br>QuantUnicorn</br> | Quantitative Engineer: Dec 2022 - Now
+* __QuantUnicorn__   Quantitative Engineer: Dec 2022 - Now
   * Develop and maintain backend for SaaS 
   * 
   
