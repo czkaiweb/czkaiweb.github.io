@@ -6,6 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /home/
 ---
 As a Data Scientist and Machine Learning Engineer in the automotive industry, I specialize in developing cutting-edge solutions. My expertise ranges from analyzing telematic data for vehicle monitoring to creating intelligent diagnostics and maintenance guides. Leveraging machine learning, I aim to boost vehicle safety, performance, and maintenance efficiency.
 
