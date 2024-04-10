@@ -1,7 +1,7 @@
 ---
 title: Search for disappearing tracks in proton-proton collisions at $\sqrt{s} =$ 13 TeV 
 collection: publications
-permalink: /publication/2020-6-11-DisappearingTrack.md
+permalink: /publication/2020-6-11-DisappearingTrack
 excerpt: ''
 date: 2020-06-11
 venue: 'Physics Letters B'
