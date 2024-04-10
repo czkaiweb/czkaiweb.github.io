@@ -17,20 +17,30 @@ Education
 Work experience
 ======
 * __Cognomotiv Inc__  Machine Learning Engineer: Feb 2023 - Now
-  * Develop ML/DL models for automotive solutions
-  * Build GenAI software for automotive services
+  * Developing ML/DL models for automotive solutions
+    * Machine learning models for Telematic/CANBus, battery, and NVH data
+  * Building GenAI software for automotive diagnostics/services
+  * Developing internal algorithm packages for agile solution development
 * __QuantUnicorn__   Quantitative Engineer: Dec 2022 - Now
-  * Develop and maintain backend for SaaS 
-  * 
+  * Developing and maintaining backends for [QuantUnicorn](https://quantunicorn.com/) 
+  * Optimization, model validation, and back tesing for trading stretegies
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language
+  * Python
+  * C/C++
+* Machine Learning
+  * Data process: Numpy/Pandas/PySpark
+  * Database: SQL/Weaviate/Neo4j
+  * Data Visualization: Matplotlib/seaborn/Plotly
+  * Model building: PyTorch/Scikit-learn/xgboost
+* MLOps/DevOps
+  * AWS/GCP
+  * MLflow/Airflow
+  * Docker
+  * CI/CD
+  * Terragrunt
 
 Publications
 ======
@@ -38,18 +48,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+*IOP Publishing reviewer

@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kai Wei"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Data Scientist @ Cognomotiv | PhD in Particle Physics | Machine Learning Engineer | Quantitative Researcher/Engineer"
   location         : "Columbus,OH"
   employer         :
   pubmed           : 
@@ -212,15 +212,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -248,14 +239,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+
 
 # Sass/SCSS
 sass:
