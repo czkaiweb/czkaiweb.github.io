@@ -1,6 +1,6 @@
 ---
 title: "GUI for CMS Phase 2 Tracker Upgrade"
-excerpt: "GUI and control software for CMS Phase 2 Pixel Module testing<br/><img src='/images/Ph2_ACF_GUI.png'>"
+excerpt: "GUI and control software for CMS Phase 2 Pixel Module testing<br/><img src='/images/Ph2_ACF_GUI_sample.png'>"
 collection: portfolio
 ---
 
