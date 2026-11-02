@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
   - /home/
 ---
-As a Data Scientist and Machine Learning Engineer in the automotive industry, I specialize in developing cutting-edge solutions. My expertise ranges from analyzing telematic data for vehicle monitoring to creating intelligent diagnostics and maintenance guides. Leveraging machine learning, I aim to boost vehicle safety, performance, and maintenance efficiency.
+I am a Research Scientist at Upstart with more than four years of experience as a data scientist and software engineer. I specialize in data analysis, deep learning, software engineering, and model development, translating theoretical ideas into practical, scalable applications.
 
-During my PhD within the CMS collaboration at the Large Hadron Collider (LHC), I focused on the search for exotic particles beyond the Standard Model  with a dedicated approach named "disappearing track" using the massive particle collision data collected by CMS detector on Large Hadron Collider (LHC). My work in the CMS collaboration encompassed statistical data analysis, the application of deep learning algorithms for particle identification, and software development for detector upgrade research & development.
+My research background includes searches for physics beyond the Standard Model with the CMS experiment at the Large Hadron Collider. I worked on statistical data analysis, machine-learning methods for particle identification, and software for detector upgrade research and development.
 
-My technical expertise extends to developing machine learning models for time-series anomaly detection, image classification, object detection, and the construction of services around Large Language Models (LLMs) and Multimodal-LLMs. These projects have involved optimizing information retrieval through specialized document parsing and chunking, implementing dedicated search strategies, and leveraging multimodal approaches for enhanced data interpretation.
+I also work on quantitative research and software, including options-data signals, SaaS backends, and customer-facing APIs. My earlier industry work included end-to-end machine-learning solutions for automotive applications.
 
-I am deeply interested in the intersection of physics and machine learning, exploring how the fusion of these disciplines can optimize model efficiency and advance scientific discovery in physics. My contributions include service as reviewer for ML in Science publication, the development of physics-informed neural networks, and the integration of domain-specific knowledge in feature engineering to enhance model performance and scientific exploration.
+Across these areas, I enjoy bridging rigorous analysis and engineering to build useful, scalable systems.

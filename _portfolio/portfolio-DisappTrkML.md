@@ -4,4 +4,4 @@ excerpt: "Algorithms for particle identification for disappearing track search<b
 collection: portfolio
 ---
 
-WIP
+Developed machine-learning algorithms to identify physical objects that were not found by traditional reconstruction methods and to remove mis-reconstructed objects. The project applied machine learning to improve object identification in particle-physics data.
